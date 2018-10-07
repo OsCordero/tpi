@@ -1,0 +1,27 @@
+.contenedor {
+    width: 90%;
+    margin-top: 2cm;
+    
+}
+
+
+.lista-productos{
+    border: 3px;
+    list-style: none;
+    margin-top: 1cm;
+    align-self: auto;
+    margin-left: 5cm;
+}
+
+.pa{
+    text-align: center;
+    margin-top: 0.5cm;
+}
+
+.imgpro{
+    width: 50%;
+}
+
+.lista{
+   display: inline-block;
+}

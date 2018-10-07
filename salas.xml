@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="css/salas.css"?>
+<paginasalas>
+<salas>
+  <sala id="uno">
+    <etiqueta>nombre</etiqueta>
+    <nombre>San Salvador</nombre>
+    <ubicacion>Alameda Juan Pablo II, #728</ubicacion>
+    <telefono>2323-4335</telefono>
+  </sala>
+  <sala id="dos">
+    <nombre>Galerías</nombre>
+    <ubicacion>Centro Comercial Galerías, local 212, Paseo General Escalón, San Salvador</ubicacion>
+    <telefono>2222-6978</telefono>
+  </sala>
+  <sala id="tres">
+    <nombre>Soyapango</nombre>
+    <ubicacion>Plaza soyapango, local 180</ubicacion>
+    <telefono>2323-1203</telefono>
+  </sala>
+</salas>
+</paginasalas>

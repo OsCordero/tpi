@@ -1,0 +1,54 @@
+salas{
+    font-family: sans-serif; 
+    margin: 0 auto;   
+}
+sala{
+    display:block;
+    margin: 20px auto;
+    border: 1px soitemd black;
+    border-radius: 7px 7px 7px 7px;
+    background-color: rgb(209, 209, 209);
+    padding: 20px 10px; 
+    float:left;
+    width:28%; 
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+sala:hover{
+    transform: scale(1.1);
+border: 1px soitemd #574c4a;
+box-shadow: 0px 0px 50px #666;
+transition: all .3s ease;
+}
+nombre,ubicacion,telefono{
+    display: block;
+    padding: 5px 5px; 
+   
+}
+nombre{
+    color: rgb(209, 152, 68);
+}
+
+salas{
+    display: block;
+    font-family: sans-serif;    
+}
+.salas{
+    margin-top: 70px;
+}
+etiqueta{
+        display:inline;
+        margin-left:10px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+nombre{
+    font-weight: bold;
+}
+
+section.redes{
+    margin-top: 250px;
+}

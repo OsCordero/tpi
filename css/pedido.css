@@ -1,0 +1,97 @@
+.button {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #2fa0a8 !important;
+    border-radius: 6px;
+    margin-bottom: 10px;
+
+}
+
+table {
+   width: 25%;
+   border: 1px solid #000;
+   background-color: #F8FBEF;
+
+}
+
+.titulo1{
+    text-align: center;
+	color: #2e8b7b;
+	font-weight: bold;
+}
+.titulo2{
+    color: #524c56;
+}
+td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+}
+th{
+   width:100%;
+   text-align: center;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.15em;
+   caption-side: bottom;
+}
+caption {
+   padding: 0.3em;
+   color: #fff;
+    background: #000;
+}
+th {
+   background: #eee;
+}
+
+.pedido {	
+  background: white;
+}
+label{
+    font-family: sans-serif;
+    color: #524c56;
+    font-size: 150%;
+}
+input{
+    border-radius: 10px !important;
+    background-color: rgb(209,209,209);
+}
+input[type=text] {    
+    border: 2px solid rgba(139,129,129,1.00);
+    box-sizing: border-box;
+}
+input[type=number]{    
+    border: 2px solid rgba(139,129,129,1.00);
+    box-sizing: border-box;
+    font-size: 0.8em;
+}
+
+input[type=text] :focus{
+    border-radius: 4px;
+	background-color: lightblue;
+}
+input[type=email] {
+	border: 2px solid rgba(139,129,129,1.00);
+    border-radius: 4px;
+}
+input:valid {
+  background: rgba(42, 255, 42, 0.3)
+}
+
+select{
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 0.8em;
+}
+
+div.cantidad{
+    font-size: 150%;
+}
